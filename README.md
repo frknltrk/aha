@@ -1,3 +1,2 @@
 # aha!
-aha! is a search-engine clone developed for the purpose of education.
-Online: https://aha-se.000webhostapp.com/
+aha! is a search-engine clone developed for the purpose of education. See *About* section to access online hosting page.
